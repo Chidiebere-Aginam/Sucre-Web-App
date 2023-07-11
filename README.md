@@ -41,7 +41,3 @@ you go.
 ![sales](https://user-images.githubusercontent.com/38730778/212720820-09add760-b979-49f8-8ed4-a322d966211e.JPG)
 ![purchase report](https://user-images.githubusercontent.com/38730778/212720823-34af56a2-1827-4d6f-abc1-7fd13cbaeac6.JPG)
 ![sales report](https://user-images.githubusercontent.com/38730778/212720825-0636c339-1897-4649-94d2-095625c09240.JPG)
-
-## Developer:
-Chidiebere Aginam
-chidiebereaginam@yahoo.com
