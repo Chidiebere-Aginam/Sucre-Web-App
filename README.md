@@ -6,7 +6,7 @@ New products can be added as well which is used in altering the purchase form.
 
 ## Links
 https://www.sucremax.tech
-https://www.linkedin.com/in/chidiebere-aginam-51b22b128
+https://www.linkedin.com/pulse/sucre-web-application-chidiebere-aginam
 https://www.twitter.com/ChidiAginam
 E-mail: chidiebereaginam@yahoo.com
 
