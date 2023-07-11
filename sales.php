@@ -1,9 +1,12 @@
 <?php
+
+// Add header files
     include "header.php";
     include "connection.php";
 $sql = "SELECT * FROM product";
 $result = mysqli_query($conn, $sql);
 
+// If the submit button is clicked, update database
 if (isset($_POST['submit'])) 
 {
 $id=$_POST['id'];

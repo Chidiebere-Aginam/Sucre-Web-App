@@ -23,4 +23,6 @@ New products can be added as well which is used in altering the purchase form.
 ![purchase report](https://user-images.githubusercontent.com/38730778/212720823-34af56a2-1827-4d6f-abc1-7fd13cbaeac6.JPG)
 ![sales report](https://user-images.githubusercontent.com/38730778/212720825-0636c339-1897-4649-94d2-095625c09240.JPG)
 
-
+## Developer:
+Chidiebere Aginam
+chidiebereaginam@yahoo.com

@@ -1,11 +1,13 @@
 <?php
+// Add header files
     include "header.php";
     include "connection.php";
 
+// Perform a SQL operation    
 $sql = "SELECT * FROM product";
 $result = $conn -> query ($sql);
 
-
+// Update changes to the database
 if(isset($_POST['update_btn'])){
   $update_id = $_POST['update_id'];
   $name = $_POST['update_name'];

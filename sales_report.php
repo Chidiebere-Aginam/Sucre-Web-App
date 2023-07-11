@@ -1,5 +1,7 @@
 <?php
- include'header.php';
+
+// Add header files
+include'header.php';
 include'connection.php';
 $t=0;
 if (isset($_POST['submit'])) 
@@ -7,6 +9,7 @@ if (isset($_POST['submit']))
     $starttime=$_POST['starttime'];
     $endtime=$_POST['endtime'];
 
+// Perform SQL operation
 $sql = "SELECT * FROM sales where created_at>='$starttime' && created_at<'$endtime'";
 $result = $conn -> query ($sql);
 }

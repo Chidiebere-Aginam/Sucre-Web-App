@@ -1,5 +1,6 @@
 <?php
 
+// Log out
 SESSION_START();
 
 if(isset($_SESSION['auth']))

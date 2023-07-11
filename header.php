@@ -1,5 +1,6 @@
 <?php
- SESSION_START();
+// Resume session
+SESSION_START();
 
  if(isset($_SESSION['auth']))
  {
