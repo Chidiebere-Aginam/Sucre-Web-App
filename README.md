@@ -2,6 +2,24 @@
 This web application is a business inventory management system which displays purchase and sales report having keyed in the range of dates.
 New products can be added as well which is used in altering the purchase form.
 
+## Author:                                      Chidiebere Aginam 
+
+## Links
+https://www.sucremax.tech
+https://www.linkedin.com/in/chidiebere-aginam-51b22b128
+https://www.twitter.com/ChidiAginam
+E-mail: chidiebereaginam@yahoo.com
+
+## Installation:
+After setting up a LAMP stack;
+This application can be installed as follows:
+On Ubuntu server preferably 20.04, navigate to /var/www/html folder. Or it can be customised to
+a folder that contains a path to your domain name.
+Deposit the files there, then log on to MYSQL
+database and create a database named "ims480".
+Exit from mysql and run the .sql file, there 
+you go.
+
 ## Credential for admin panel
 - username: admin
 - Password: admin
@@ -15,9 +33,6 @@ New products can be added as well which is used in altering the purchase form.
    - Unit Price
 3. Stock Management (Purchase and Sale)
 4. Stock Status and Transaction Report (Daily and Monthly)
-
-## Developer:                                   Chidiebere Aginam
-chidiebereaginam@yahoo.com
 
 ## Screen Shots
 ![admin login](https://user-images.githubusercontent.com/38730778/212720829-dc8a14dc-4125-49ec-9375-fba999fc5f1f.JPG)
