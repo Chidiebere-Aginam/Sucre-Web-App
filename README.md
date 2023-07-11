@@ -15,6 +15,10 @@ New products can be added as well which is used in altering the purchase form.
    - Unit Price
 3. Stock Management (Purchase and Sale)
 4. Stock Status and Transaction Report (Daily and Monthly)
+
+## Developer:                                   Chidiebere Aginam
+chidiebereaginam@yahoo.com
+
 ## Screen Shots
 ![admin login](https://user-images.githubusercontent.com/38730778/212720829-dc8a14dc-4125-49ec-9375-fba999fc5f1f.JPG)
 ![stock](https://user-images.githubusercontent.com/38730778/212720833-8b98b642-54ee-4eb1-a8ed-022d3552d853.JPG)
